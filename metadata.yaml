@@ -1,0 +1,29 @@
+_repo: Sur-quelques-applications-des-fonctions-elliptiques_25227
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hermite, Charles
+    birthdate: 1822
+    deathdate: 1901
+    gutenberg_agent_id: '31163'
+    url: http://www.gutenberg.org/2009/agents/31163
+description: ''
+gutenberg_bookshelf:
+- Mathematics
+- FR Sciences et Techniques
+gutenberg_issued: '2008-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25227'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Elliptic functions'
+- !lcc 'QA'
+title: Sur quelques applications des fonctions elliptiques
+url: http://www.gutenberg.org/ebooks/25227
